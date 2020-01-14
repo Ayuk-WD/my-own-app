@@ -10,12 +10,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+Image of Ayuk Maxwell Facebook
+Image of psquare
+Image of joeboy
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+- phone numbers
 - List
 
 1. Numbered
