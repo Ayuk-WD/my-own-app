@@ -10,12 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-Image of Ayuk Maxwell Facebook
-Image of psquare
-Image of joeboy
+Image of Ayuk Maxwell Facebook https :\\facebook.com
+Image of psquare www.google.com
+Image of joeboy.www.google.com
 
 - phone numbers
-- List
+- List www.numberlines.com
 
 1. Numbered
 2. List
